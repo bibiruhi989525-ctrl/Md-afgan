@@ -1,0 +1,755 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8158/index.html
+Subject: My First Website
+Date: Thu, 18 Dec 2025 13:54:30 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--TW8bu9Ln6owcJ3O2SmjOe7sdE7GskgW9KGXWt1r2m9----"
+
+
+------MultipartBoundary--TW8bu9Ln6owcJ3O2SmjOe7sdE7GskgW9KGXWt1r2m9----
+Content-Type: text/html
+Content-ID: <frame-7DA99DBDEE6C0CEC2A03392582445633@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/index.html
+
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-739fb3bd-06df-45e2-96d8-40f762a7535a@mhtml.blink" /><!-- Injected code, this is not present in original code --><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Injected code, this is not present in original code --><title>My First Website</title><link rel="stylesheet" href="http://localhost:8158/style.css"></head><c-toggler style="transform: translate(2px, 945px); display: none;"></c-toggler>
+
+
+  
+  
+  
+
+<body>
+
+  <header>
+    <h1>Welcome to My Website</h1>
+    <p>This is my first mobile website</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>My name is _______. I am learning website development.</p>
+  </section>
+
+  <section>
+    <h2>My Services</h2>
+    <ul>
+      <li>Web Design</li>
+      <li>Simple Website</li>
+      <li>Mobile Friendly Site</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 My Website</p>
+  </footer>
+
+  
+
+<button>Click Me</button><img src="http://localhost:8158/image/myphoto.jpg" alt="My Photo" class="profile"><header>
+  <img src="http://localhost:8158/image/myphoto.jpg" alt="My Photo" class="profile">
+  <h1>Welcome to My Website</h1>
+  <p>This is my first mobile website</p>
+</header><section>
+  <h2>Follow Me</h2>
+
+  <a href="https://instagram.com/yourusername" target="_blank">
+    Instagram
+  </a>
+  <br><br>
+
+  <a href="https://wa.me/91XXXXXXXXXX" target="_blank">
+    WhatsApp
+  </a>
+</section><section>
+  <h2>Contact Me</h2>
+
+  <form>
+    <input type="text" placeholder="Your Name" required=""><br><br>
+    <input type="email" placeholder="Your Email" required=""><br><br>
+    <textarea placeholder="Your Message" required=""></textarea><br><br>
+    <button type="submit">Send Message</button>
+  </form>
+</section><link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap" rel="stylesheet"><section>
+  <h2>My Education</h2>
+  <p>BA 1st Semester – BNMU Madhepura</p>
+</section>
+
+<section>
+  <h2>My Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Basic JavaScript</li>
+  </ul>
+</section>
+
+
+  
+  <title>My Resume Website</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="http://localhost:8158/style.css">
+
+
+
+
+  <header>
+    <img src="http://localhost:8158/image/myphoto.jpg" class="profile">
+    <h1>Your Name</h1>
+    <p>Web Developer | Student</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I am a student and learning web development. This is my personal resume website.</p>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p>BA 1st Semester – BNMU Madhepura</p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Basic JavaScript</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: yourname@gmail.com</p>
+
+    <a href="https://instagram.com/yourusername" target="_blank">Instagram</a>
+    <a href="https://wa.me/91XXXXXXXXXX" target="_blank">WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Your Name</p>
+  </footer>
+
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  background: #ffffff;
+  color: #333;
+}
+
+header {
+  padding: 30px;
+  background: #f5f5f5;
+}
+
+.profile {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+section {
+  padding: 20px;
+  animation: fadeIn 1s ease-in;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  background: #eee;
+  margin: 6px;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+a {
+  display: inline-block;
+  margin: 8px;
+  padding: 10px 15px;
+  background: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+footer {
+  padding: 15px;
+  background: #f5f5f5;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+  
+  <title>मेरा रिज़्यूमे वेबसाइट</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="http://localhost:8158/style.css">
+
+
+
+
+  <header>
+    <img src="http://localhost:8158/image/myphoto.jpg" class="profile">
+    <h1>आपका नाम</h1>
+    <p>Student | Web Developer</p>
+
+    <!-- Resume Download -->
+    <a href="http://localhost:8158/resume.pdf" download="" class="btn">📄 Resume Download</a>
+  </header>
+
+  <section>
+    <h2>मेरे बारे में</h2>
+    <p>
+      मैं एक छात्र हूँ और वेबसाइट डेवलपमेंट सीख रहा/रही हूँ।
+      यह मेरी पर्सनल रिज़्यूमे वेबसाइट है।
+    </p>
+  </section>
+
+  <section>
+    <h2>शिक्षा</h2>
+    <p>BA 1st Semester – BNMU Madhepura</p>
+  </section>
+
+  <section>
+    <h2>मेरी Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Basic JavaScript</li>
+    </ul>
+  </section>
+
+  <!-- Certificate Section -->
+  <section>
+    <h2>मेरे Certificates</h2>
+    <ul>
+      <li>HTML Certificate</li>
+      <li>CSS Certificate</li>
+      <li>Web Design Certificate</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: yourname@gmail.com</p>
+
+    <a href="https://instagram.com/yourusername" target="_blank">Instagram</a>
+    <a href="https://wa.me/91XXXXXXXXXX" target="_blank">WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>© 2025 आपका नाम | All Rights Reserved</p>
+  </footer>
+
+<section>
+  <h2>मेरे Certificates</h2>
+
+  <div class="gallery">
+    <img src="http://localhost:8158/image/certificate/c1.jpg">
+    <img src="http://localhost:8158/image/certificate/c2.jpg">
+    <img src="http://localhost:8158/image/certificate/c3.jpg">
+  </div>
+</section><a href="http://localhost:8158/PASTE_GOOGLE_FORM_LINK" target="_blank" class="btn">
+</a><a href="http://localhost:8158/PASTE_GOOGLE_FORM_LINK" target="_blank" class="btn">
+  📧 Send Message
+</a><div class="lang-switch">
+  <button>Hindi</button>
+  <button>English</button>
+</div><h1><span data-lang="hi">आपका नाम</span><span data-lang="en">Your Name</span></h1>
+<p>
+  <span data-lang="hi">मैं एक छात्र हूँ और वेबसाइट डेवलपमेंट सीख रहा/रही हूँ।</span>
+  <span data-lang="en">I am a student learning web development.</span>
+</p><button>🌙/☀️ Theme</button>
+
+
+  
+  <title>My Business Website</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="http://localhost:8158/style.css">
+
+
+
+  <header>
+    <div class="lang-switch">
+      <button>Hindi</button>
+      <button>English</button>
+      <button>🌙/☀️ Theme</button>
+    </div>
+
+    <img src="http://localhost:8158/image/myphoto.jpg" class="profile">
+    <h1><span data-lang="hi">आपका बिज़नेस नाम</span><span data-lang="en">Your Business Name</span></h1>
+    <p>
+      <span data-lang="hi">हम सेवाएँ प्रदान करते हैं</span>
+      <span data-lang="en">We provide professional services</span>
+    </p>
+  </header>
+
+  <section>
+    <h2><span data-lang="hi">हमारे बारे में</span><span data-lang="en">About Us</span></h2>
+    <p>
+      <span data-lang="hi">हम आपकी डिजिटल ज़रूरतों के लिए यहाँ हैं।</span>
+      <span data-lang="en">We are here for your digital needs.</span>
+    </p>
+  </section>
+
+  <section>
+    <h2><span data-lang="hi">हमारी सेवाएँ</span><span data-lang="en">Our Services</span></h2>
+    <ul>
+      <li><span data-lang="hi">वेब डिज़ाइन</span><span data-lang="en">Web Design</span></li>
+      <li><span data-lang="hi">मोबाइल ऐप डेवलपमेंट</span><span data-lang="en">Mobile App Development</span></li>
+      <li><span data-lang="hi">SEO &amp; Marketing</span><span data-lang="en">SEO &amp; Marketing</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span data-lang="hi">प्राइसिंग</span><span data-lang="en">Pricing</span></h2>
+    <ul>
+      <li><span data-lang="hi">बेसिक: ₹5000</span><span data-lang="en">Basic: $60</span></li>
+      <li><span data-lang="hi">स्टैंडर्ड: ₹10000</span><span data-lang="en">Standard: $120</span></li>
+      <li><span data-lang="hi">प्रीमियम: ₹20000</span><span data-lang="en">Premium: $240</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span data-lang="hi">संपर्क करें</span><span data-lang="en">Contact Us</span></h2>
+    <p>Email: yourname@gmail.com</p>
+
+    <a href="https://instagram.com/yourusername" target="_blank">Instagram</a>
+    <a href="https://wa.me/91XXXXXXXXXX" target="_blank">WhatsApp</a>
+    <a href="http://localhost:8158/resume.pdf" download="" class="btn">📄 Resume / Brochure Download</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Your Business | All Rights Reserved</p>
+  </footer>
+
+  
+
+<meta name="description" content="Professional business website providing web design, mobile app development, SEO and marketing services.">
+<meta name="keywords" content="Web Design, Mobile App, SEO, Marketing, Business Website, Resume Website">
+<meta name="author" content="Your Name">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Facebook & Social Sharing -->
+<meta property="og:title" content="Your Business Website">
+<meta property="og:description" content="Professional services for web design, mobile apps and marketing.">
+<meta property="og:image" content="image/myphoto.jpg">
+<meta property="og:url" content="https://yourusername.github.io/my-business-website/">
+<meta property="og:type" content="website"><img src="http://localhost:8158/image/myphoto.jpg" alt="Your Business Logo or Photo">
+
+
+  
+  <title>My Business / Resume Website</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap" rel="stylesheet">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="http://localhost:8158/style.css">
+
+  <!-- Meta Tags for SEO -->
+  <meta name="description" content="Professional business website providing web design, mobile app development, SEO and marketing services.">
+  <meta name="keywords" content="Web Design, Mobile App, SEO, Marketing, Business Website, Resume Website">
+  <meta name="author" content="Your Name">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Open Graph for Social Sharing -->
+  <meta property="og:title" content="Your Business Website">
+  <meta property="og:description" content="Professional services for web design, mobile apps and marketing.">
+  <meta property="og:image" content="image/myphoto.jpg">
+  <meta property="og:url" content="https://yourusername.github.io/my-business-website/">
+  <meta property="og:type" content="website">
+
+
+
+
+  <!-- Header -->
+  <header>
+    <div class="lang-switch">
+      <button>Hindi</button>
+      <button>English</button>
+      <button>🌙/☀️ Theme</button>
+    </div>
+
+    <img src="http://localhost:8158/image/myphoto.jpg" class="profile" alt="Profile Photo">
+    <h1>
+      <span data-lang="hi">आपका बिज़नेस नाम</span>
+      <span data-lang="en">Your Business Name</span>
+    </h1>
+    <p>
+      <span data-lang="hi">हम सेवाएँ प्रदान करते हैं</span>
+      <span data-lang="en">We provide professional services</span>
+    </p>
+
+    <a href="http://localhost:8158/resume.pdf" download="" class="btn">📄 Resume / Brochure Download</a>
+  </header>
+
+  <!-- About -->
+  <section>
+    <h2>
+      <span data-lang="hi">हमारे बारे में</span>
+      <span data-lang="en">About Us</span>
+    </h2>
+    <p>
+      <span data-lang="hi">हम आपकी डिजिटल ज़रूरतों के लिए यहाँ हैं।</span>
+      <span data-lang="en">We are here for your digital needs.</span>
+    </p>
+  </section>
+
+  <!-- Services -->
+  <section id="services">
+    <h2>
+      <span data-lang="hi">हमारी सेवाएँ</span>
+      <span data-lang="en">Our Services</span>
+    </h2>
+    <ul>
+      <li><span data-lang="hi">वेब डिज़ाइन</span><span data-lang="en">Web Design</span></li>
+      <li><span data-lang="hi">मोबाइल ऐप डेवलपमेंट</span><span data-lang="en">Mobile App Development</span></li>
+      <li><span data-lang="hi">SEO &amp; Marketing</span><span data-lang="en">SEO &amp; Marketing</span></li>
+    </ul>
+  </section>
+
+  <!-- Pricing -->
+  <section>
+    <h2>
+      <span data-lang="hi">प्राइसिंग</span>
+      <span data-lang="en">Pricing</span>
+    </h2>
+    <ul>
+      <li><span data-lang="hi">बेसिक: ₹5000</span><span data-lang="en">Basic: $60</span></li>
+      <li><span data-lang="hi">स्टैंडर्ड: ₹10000</span><span data-lang="en">Standard: $120</span></li>
+      <li><span data-lang="hi">प्रीमियम: ₹20000</span><span data-lang="en">Premium: $240</span></li>
+    </ul>
+  </section>
+
+  <!-- Certificates -->
+  <section>
+    <h2>
+      <span data-lang="hi">मेरे Certificates</span>
+      <span data-lang="en">My Certificates</span>
+    </h2>
+    <div class="gallery">
+      <img src="http://localhost:8158/image/certificate/c1.jpg" alt="Certificate 1">
+      <img src="http://localhost:8158/image/certificate/c2.jpg" alt="Certificate 2">
+      <img src="http://localhost:8158/image/certificate/c3.jpg" alt="Certificate 3">
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <h2>
+      <span data-lang="hi">संपर्क करें</span>
+      <span data-lang="en">Contact Us</span>
+    </h2>
+    <p>Email: yourname@gmail.com</p>
+    <a href="https://instagram.com/yourusername" target="_blank">Instagram</a>
+    <a href="https://wa.me/91XXXXXXXXXX" target="_blank">WhatsApp</a>
+    <a href="http://localhost:8158/resume.pdf" download="" class="btn">📄 Resume / Brochure Download</a>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Your Business | All Rights Reserved</p>
+  </footer>
+
+  <!-- JS -->
+  
+
+</body></html>
+------MultipartBoundary--TW8bu9Ln6owcJ3O2SmjOe7sdE7GskgW9KGXWt1r2m9----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Poppins&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecmNE.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecmNE.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecg.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--TW8bu9Ln6owcJ3O2SmjOe7sdE7GskgW9KGXWt1r2m9----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/style.css
+
+@charset "utf-8";
+
+body { margin: 0px; font-family: Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); text-align: center; }
+
+header { background-color: rgb(245, 245, 245); padding: 30px 10px; }
+
+header h1 { margin: 0px; font-size: 28px; }
+
+section { padding: 20px; }
+
+section h2 { color: rgb(34, 34, 34); }
+
+ul { list-style: none; padding: 0px; }
+
+ul li { background: rgb(238, 238, 238); margin: 8px; padding: 10px; border-radius: 5px; }
+
+footer { background-color: rgb(245, 245, 245); padding: 15px; font-size: 14px; }
+
+button { padding: 10px 20px; font-size: 16px; background-color: rgb(51, 51, 51); color: white; border: none; border-radius: 5px; cursor: pointer; }
+
+.profile { width: 120px; height: 120px; border-radius: 50%; margin-bottom: 10px; object-fit: cover; }
+
+a { text-decoration: none; color: white; background-color: rgb(51, 51, 51); padding: 10px 15px; border-radius: 5px; display: inline-block; margin: 5px; }
+
+a:hover { background-color: rgb(85, 85, 85); }
+
+form { max-width: 300px; margin: auto; }
+
+input, textarea { width: 100%; padding: 8px; margin: 5px 0px; border-radius: 5px; border: 1px solid rgb(204, 204, 204); }
+
+textarea { height: 80px; }
+
+body { margin: 0px; font-family: Poppins, sans-serif; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); text-align: center; }
+
+section { animation: 1s ease-in 0s 1 normal none running fadeIn; }
+
+@keyframes fadeIn { 
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+body { margin: 0px; font-family: Poppins, sans-serif; text-align: center; background: rgb(255, 255, 255); color: rgb(51, 51, 51); }
+
+header { padding: 30px; background: rgb(245, 245, 245); }
+
+.profile { width: 130px; height: 130px; border-radius: 50%; object-fit: cover; margin-bottom: 10px; }
+
+section { padding: 20px; animation: 1s ease-in 0s 1 normal none running fadeIn; }
+
+ul { list-style: none; padding: 0px; }
+
+ul li { background: rgb(238, 238, 238); margin: 6px; padding: 10px; border-radius: 6px; }
+
+a, .btn { display: inline-block; margin: 8px; padding: 10px 15px; background: rgb(51, 51, 51); color: white; text-decoration: none; border-radius: 5px; }
+
+a:hover, .btn:hover { background: rgb(85, 85, 85); }
+
+footer { padding: 15px; background: rgb(245, 245, 245); }
+
+@keyframes fadeIn { 
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; padding: 10px; }
+
+.gallery img { width: 100%; border-radius: 6px; }
+
+.lang-switch { text-align: right; padding: 10px; }
+
+.lang-switch button { padding: 5px 10px; margin: 2px; cursor: pointer; border-radius: 5px; border: none; background: rgb(51, 51, 51); color: white; }
+
+.lang-switch button:hover { background: rgb(85, 85, 85); }
+
+.dark-mode { background-color: rgb(18, 18, 18); color: rgb(240, 240, 240); }
+
+.dark-mode header, .dark-mode footer { background-color: rgb(30, 30, 30); }
+
+.dark-mode a, .dark-mode .btn, .dark-mode .lang-switch button { background-color: rgb(51, 51, 51); color: rgb(240, 240, 240); }
+
+.dark-mode a:hover, .dark-mode .btn:hover, .dark-mode .lang-switch button:hover { background-color: rgb(85, 85, 85); }
+
+body { margin: 0px; font-family: Poppins, sans-serif; text-align: center; background: rgb(255, 255, 255); color: rgb(51, 51, 51); }
+
+header { padding: 30px; background: rgb(245, 245, 245); }
+
+.profile { width: 130px; height: 130px; border-radius: 50%; object-fit: cover; margin-bottom: 10px; }
+
+section { padding: 20px; animation: 1s ease-in 0s 1 normal none running fadeIn; }
+
+ul { list-style: none; padding: 0px; }
+
+ul li { background: rgb(238, 238, 238); margin: 6px; padding: 10px; border-radius: 6px; }
+
+a, .btn { display: inline-block; margin: 8px; padding: 10px 15px; background: rgb(51, 51, 51); color: white; text-decoration: none; border-radius: 5px; }
+
+a:hover, .btn:hover { background-color: rgb(85, 85, 85); }
+
+.lang-switch { text-align: right; padding: 10px; }
+
+.lang-switch button { padding: 5px 10px; margin: 2px; cursor: pointer; border-radius: 5px; border: none; background: rgb(51, 51, 51); color: white; }
+
+.lang-switch button:hover { background-color: rgb(85, 85, 85); }
+
+footer { padding: 15px; background: rgb(245, 245, 245); }
+
+.dark-mode { background-color: rgb(18, 18, 18); color: rgb(240, 240, 240); }
+
+.dark-mode header, .dark-mode footer { background-color: rgb(30, 30, 30); }
+
+.dark-mode a, .dark-mode .btn, .dark-mode .lang-switch button { background-color: rgb(51, 51, 51); color: rgb(240, 240, 240); }
+
+.dark-mode a:hover, .dark-mode .btn:hover, .dark-mode .lang-switch button:hover { background-color: rgb(85, 85, 85); }
+
+@keyframes fadeIn { 
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+header { padding: 30px; background: rgb(245, 245, 245); }
+
+.profile { width: 130px; height: 130px; border-radius: 50%; object-fit: cover; margin-bottom: 10px; }
+
+section { padding: 20px; animation: 1s ease-in 0s 1 normal none running fadeIn; }
+
+ul { list-style: none; padding: 0px; }
+
+ul li { background: rgb(238, 238, 238); margin: 6px; padding: 10px; border-radius: 6px; }
+
+a, .btn { display: inline-block; margin: 8px; padding: 10px 15px; background: rgb(51, 51, 51); color: white; text-decoration: none; border-radius: 5px; }
+
+a:hover, .btn:hover { background-color: rgb(85, 85, 85); }
+
+.lang-switch { text-align: right; padding: 10px; }
+
+.lang-switch button { padding: 5px 10px; margin: 2px; cursor: pointer; border-radius: 5px; border: none; background: rgb(51, 51, 51); color: white; }
+
+.lang-switch button:hover { background-color: rgb(85, 85, 85); }
+
+footer { padding: 15px; background: rgb(245, 245, 245); }
+
+.dark-mode { background-color: rgb(18, 18, 18); color: rgb(240, 240, 240); }
+
+.dark-mode header, .dark-mode footer { background-color: rgb(30, 30, 30); }
+
+.dark-mode a, .dark-mode .btn, .dark-mode .lang-switch button { background-color: rgb(51, 51, 51); color: rgb(240, 240, 240); }
+
+.dark-mode a:hover, .dark-mode .btn:hover, .dark-mode .lang-switch button:hover { background-color: rgb(85, 85, 85); }
+
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; padding: 10px; }
+
+.gallery img { width: 100%; border-radius: 6px; }
+
+@keyframes fadeIn { 
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+------MultipartBoundary--TW8bu9Ln6owcJ3O2SmjOe7sdE7GskgW9KGXWt1r2m9----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-739fb3bd-06df-45e2-96d8-40f762a7535a@mhtml.blink
+
+@charset "utf-8";
+
+c-toggler { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAE9JREFUOMtjYBh0gBHO+k+cSkYilcPVMpHqpIHRwIgUFERp+I8SekQ5CY8WXH7AqYWJyGglqIERV3QykaYcV7DiSSwsODw8yJIGdTPQIAQAg9gKJl7UINwAAAAASUVORK5CYII="); background-position: center center; background-repeat: no-repeat; background-size: 24px; position: fixed; top: 0px; left: 0px; height: 30px; width: 30px; background-color: rgb(255, 255, 255); transform-origin: center center; border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.4) -2px 2px 8px; z-index: 99999; opacity: 0.5; }
+
+c-object { color: rgb(153, 153, 255); text-decoration: underline; }
+
+c-toggler:active { box-shadow: rgba(0, 0, 0, 0.4) -1px 1px 4px; }
+
+c-line { display: block; }
+
+c-console { box-sizing: border-box; overflow-y: auto; position: fixed; top: 0px; left: 0px; height: 100vh; width: 100vw; background-color: rgb(49, 49, 49); z-index: 99998; color: rgb(238, 238, 238); font-family: Roboto, sans-serif; }
+
+c-console[title] { padding-top: 65px; animation: 0.1s ease 0s 1 normal none running --page-transition; }
+
+c-console br:last-of-type { display: none; }
+
+c-console textarea { color: rgb(255, 255, 255); background-color: inherit; caret-color: currentcolor !important; }
+
+c-input { display: flex; width: 100%; height: fit-content; }
+
+c-input::before { content: ">>"; margin: 0px 5px; height: 100%; }
+
+#__c-input { width: 100%; border: none; resize: none; height: 200px; position: relative; background-color: rgba(0, 0, 0, 0); overflow: visible; }
+
+#__c-input:focus { outline: none; }
+
+c-console[title]::before { position: fixed; top: 0px; left: 0px; width: 100vw; background-color: inherit; z-index: 999999; content: attr(title); display: flex; height: 44px; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 900; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; margin-bottom: 10px; color: rgb(255, 255, 255); font-size: medium; }
+
+c-message { position: relative; display: flex; border-bottom: 1px solid rgba(204, 204, 204, 0.4); margin-bottom: 35px; font-size: 0.9rem; flex-wrap: wrap; }
+
+c-code { position: relative; color: rgb(214, 211, 211); font-size: 1em; font-family: "Courier New", Courier, monospace; overflow-x: auto; white-space: pre; margin-bottom: 0px; }
+
+c-code::after { content: "use"; background-color: rgb(102, 102, 102); color: inherit; border-radius: 4px; padding: 0px 0.4rem; font-size: 0.6rem; }
+
+c-code::before { content: ">>"; padding: 0px 5px; font-style: italic; }
+
+c-key { font-size: 0.9rem; color: rgb(204, 102, 255); }
+
+c-message[log-level="error"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(68, 34, 34); color: inherit; }
+
+c-message[log-level="error"]::after { background-color: rgb(204, 67, 67); color: inherit; }
+
+c-message[log-level="warn"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(102, 51, 51); color: inherit; }
+
+c-message[log-level="warn"]::after { background-color: rgb(204, 105, 105); color: inherit; }
+
+c-stack:not(:empty) { content: attr(data-stack); font-family: Verdana, Geneva, Tahoma, sans-serif; position: absolute; top: 100%; right: 0px; display: flex; height: 20px; -webkit-box-align: center; align-items: center; -webkit-box-pack: justify; justify-content: space-between; width: 100vw; background-color: inherit; padding: 0px 5px; box-sizing: border-box; font-size: 0.8rem; color: inherit; }
+
+c-text { padding: 2px 2px 2px 10px; font-family: Verdana, Geneva, Tahoma, sans-serif; overflow: auto; box-sizing: border-box; max-width: 100vw; font-size: 0.9rem; width: 100%; white-space: break-spaces; }
+
+c-text.__c-boolean { color: rgb(130, 80, 177); }
+
+c-text.__c-number { color: rgb(97, 88, 221); }
+
+c-text.__c-symbol { color: rgb(111, 89, 172); }
+
+c-text.__c-function { color: rgb(145, 136, 168); font-family: "Courier New", Courier, monospace; font-size: 0.9rem; }
+
+c-text.__c-function::before { content: "ƒ"; margin: 0px 2px; font-style: italic; color: rgb(153, 153, 255); }
+
+c-text.__c-object, c-text.__c-undefined { color: rgb(118, 163, 118); }
+
+c-text.__c-string { color: rgb(59, 161, 59); }
+
+c-text.__c-string:not(.no-quotes)::before { content: "\""; margin-right: 2px; }
+
+c-text.__c-string:not(.no-quotes)::after { content: "\""; margin-left: 2px; }
+
+c-message.error c-text { overflow: unset; white-space: pre-wrap; word-break: break-word; color: rgb(255, 255, 255); }
+
+c-group { display: none; margin-left: 14px; }
+
+c-type[type="body-toggler"].__show-data + c-group { display: block; }
+
+c-type[type="body-toggler"]::before { display: inline-block; content: "▸"; margin-right: 2.5px; }
+
+c-type[type="body-toggler"]::after { content: "{...}"; }
+
+c-type[type="body-toggler"].__show-data::before { content: "▾"; }
+
+c-type[type="body-toggler"].__show-data::after { display: none; }
+
+c-table { display: table; width: 100%; border-collapse: collapse; border-spacing: 0px; font-size: 0.9rem; color: rgb(214, 211, 211); border: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row { display: table-row; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row:last-child { border-bottom: none; }
+
+c-table c-row:first-child { font-weight: bold; }
+
+c-table c-cell { display: table-cell; padding: 5px; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-cell:not(:last-child) { border-left: 1px solid rgba(204, 204, 204, 0.4); }
+
+@-webkit-keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+
+@keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+------MultipartBoundary--TW8bu9Ln6owcJ3O2SmjOe7sdE7GskgW9KGXWt1r2m9------
